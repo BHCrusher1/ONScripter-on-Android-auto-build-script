@@ -4,6 +4,8 @@ ONScripter on Android by ogapee [https://onscripter.osdn.jp/android/](https://on
 
 This is ONScripter on Android auto build script.
 
+This script has been tested with Lubuntu 18.04.
+
 ## How to use
 
 1. Grant executable permission  
